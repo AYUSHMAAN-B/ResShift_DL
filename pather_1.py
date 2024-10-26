@@ -2,7 +2,7 @@ from utils.util_common import write_path_to_txt
 
 # Define the directory containing your training images and the output text file path
 dir_folder = '/kaggle/input/imagenetmini-1000'
-txt_path = '/kaggle/output/ResShift_DL/path_train_all.txt'
+txt_path = '/kaggle/working/ResShift_DL/path_train_all.txt'
 search_key = '*.png'  # or '*.jpg' if only using jpg images
 
 # Create text file with all image paths
