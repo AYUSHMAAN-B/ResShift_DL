@@ -99,8 +99,8 @@ data:
     params:
       dir_paths: []
       txt_file_path: [
-                      '/kaggle/working/ResShift/path_train_all.txt', 
-                      '/kaggle/working/ResShift/files256.txt',
+                      '/kaggle/working/ResShift_DL/path_train_all.txt', 
+                      '/kaggle/working/ResShift_DL/files256.txt',
                      ] 
       im_exts: ['JPEG', ]
       io_backend:
