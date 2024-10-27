@@ -1,4 +1,5 @@
 import shutil
+import os
 
 # Define the source path (input directory) and destination path (output directory)
 source_path = '/kaggle/input/weights/autoencoder_vq_f4.pth'
